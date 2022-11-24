@@ -15,7 +15,7 @@
    <span id = "Objetivo">
 
 ## Objetivo 
-   Objetivo: apresentar conceitos fundamentais de usabilidade, acessibilidade, UX e etc
+   Objetivo: apresentar conceitos fundamentais de usabilidade, acessibilidade, UX e etc.
    
    <span id = "nielsen">
 
