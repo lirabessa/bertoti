@@ -24,6 +24,7 @@
 <p align = "left">
     |<a href="#nielsen1"> 1 </a> | 
     <a href="#nielsen2"> 2 </a> | 
+    <a href="#nielsen3"> 3 </a> | 
 </p>
 
 
@@ -40,13 +41,22 @@ Os processos flexíveis podem ser executados de diferentes maneiras, para que as
     As mensagens de erro devem ser expressas em linguagem simples (sem códigos de erro), indicar com precisão o problema e sugerir uma solução de forma construtiva.<br><br><br>
     <img heigh="500px" width="500px" src ="https://github.com/lirabessa/bertoti/blob/main/IHC/imagens/2.png">
     
+<span id = "nielsen3">
+    <h3>Estética e design minimalista</h3>
+       Quanto maior a quantidade de informações, mais tempo o usuário vai levar para analisá-las e poder tomar uma decisão, aumentando assim as chances dele abandonar        a aplicação/site por achar confuso demais.
+ <h3>Erro:</h3>
+       Muitas informações na tela que pode acabar confundindo o usuario.
+       <br><br>
+        <img heigh="500px" width="500px" src ="https://github.com/lirabessa/bertoti/blob/main/IHC/imagens/5.png">
+       
     
  <span id = "wc3">
   
 <h1>W3C</h1>
 <p align = "left">
     <a href="#w3c1"> 1 </a> /
-    <a href="#w3c2"> 2 </a> 
+    <a href="#w3c2"> 2 </a> /
+    <a href="#w3c3"> 3 </a>
 </p>
         
 <span id = "w3c1">
@@ -56,7 +66,16 @@ Os processos flexíveis podem ser executados de diferentes maneiras, para que as
 <span id = "w3c2">
 <h3>Descrição do áudio (pré-gravado)</h3>
     <img heigh="500px" width="500px" src ="https://github.com/lirabessa/bertoti/blob/main/IHC/imagens/4.png">
-
+    
+<span id = "w3c3">
+<h3>Adaptável</h3>
+Crie conteúdos que possam ser apresentados de diversas formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
+<h3>Erro:</h3>
+Nas imagens a seguir podemos ver que o site não se adapta a diversos tipos de dispositivos.
+<h4>Navegador<h4>
+<img heigh="500px" width="500px" src ="https://github.com/lirabessa/bertoti/blob/main/IHC/imagens/6.png">
+<h4>Celular<h4>
+<img heigh="500px" width="500px" src ="https://github.com/lirabessa/bertoti/blob/main/IHC/imagens/6.jpg">
     
     
         
